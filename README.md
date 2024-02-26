@@ -1,5 +1,7 @@
 apt install git curl
 
+git clone https://github.com/Manouille/ternoa.git
+
 cd ternoa
 
 sudo chmod +x installer_node_archive.sh
